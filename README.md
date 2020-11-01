@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Soy Magdiel Efrain, un ingeniero de software, especializado en la creación de aplicaciones web, API y aplicaciones de escritorio utilizando (ASP) .NET Core y Stack relacionado con arquitectura limpia.
+
+
 <p align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=magefra&show_icons=false" alt="magefra" />
  </p>
