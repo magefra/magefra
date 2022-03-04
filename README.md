@@ -2,7 +2,7 @@
 
 <h2 align = 'center'> Programador .net 💻 | Mexicano <img src="https://media.giphy.com/media/8fdNOoJvXo1xTuNJoT/giphy.gif" width="25px"> </h2>
   
-<h3 align='center'>Soy Magdiel Efrain, un ingeniero de software, especializado en la creación de aplicaciones web, API y aplicaciones de escritorio utilizando .NET Core y Stack relacionado con arquitectura limpia.</3>
+<h3 align='center'>Soy Magdiel Efrain, Ingeniero de Software, especializado en la creación de aplicaciones web, API y aplicaciones de escritorio utilizando .NET Core y Stack relacionado con arquitectura limpia.</3>
 
 <h3 align='center'> 🌱 Escribo artículos detallados, tutoriales y guías para ASP.NET Core en mi blog https://magefra.medium.com/ </3>
 
