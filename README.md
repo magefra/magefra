@@ -17,8 +17,3 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magefra" alt="magefra" /> </p>
-
-<p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=magefra&show_icons=false" alt="magefra" />
- </p>
-
