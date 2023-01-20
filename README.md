@@ -1,6 +1,6 @@
 <h1 align='center'>Hola 😄 </h1>
 
-<h2 align = 'center'> Programador .net 💻 | Mexicano  </h2>
+<h2 align = 'center'> Programador .net 💻 </h2>
   
 <h3 align='center'>Soy Magdiel Efrain, Ingeniero de Software, especializado en la creación de aplicaciones web, API y aplicaciones de escritorio utilizando .NET Core y Stack relacionado con arquitectura limpia.</3>
 
